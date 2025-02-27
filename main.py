@@ -1,4 +1,4 @@
-imp# Initialize Pygame
+imp # Initialize Pygame
 pygame.init()
 
 # Set window dimensions
